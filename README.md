@@ -25,7 +25,7 @@ It includes:
 ### **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/Magdywalid/k8s-ins-proj.git
+git clone https://github.com/Magdywalid/k8s-multipass-setup
 cd k8s-ins-proj
 
 
